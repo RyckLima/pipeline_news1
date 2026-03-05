@@ -1,0 +1,58 @@
+# --- Python - Arquivos compilados/cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- Ambientes Virtuais ---
+.venv/
+venv/
+ENV/
+env/
+bin/
+include/
+lib/
+lib64/
+
+# --- Arquivos de Configuração/Secretos ---
+.env
+.flaskenv
+*.local
+
+# --- IDEs e Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Distribuição e Pacotes ---
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Relatórios de Teste e Cobertura ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# --- Documentação ---
+docs/_build/
