@@ -56,3 +56,9 @@ coverage.xml
 
 # --- Documentação ---
 docs/_build/
+
+
+# --- pastas do projeto----
+
+/data
+z_aprendizado.txt
