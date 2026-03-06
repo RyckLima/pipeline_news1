@@ -62,3 +62,4 @@ docs/_build/
 
 /data
 z_aprendizado.txt
+*.ipynb
